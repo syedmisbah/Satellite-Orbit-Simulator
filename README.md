@@ -1,10 +1,7 @@
-Satellite-Orbit-Simulation
+Satellite-Orbit-Simulation 
 
 Simulates a satellite's Low Earth Orbit trajectory and additionally outputs it's Ground Track for a custom launch position and speed.
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
 Converts the State Vectors -
 
 %1. Position Vector [Rx Ry Rz]
